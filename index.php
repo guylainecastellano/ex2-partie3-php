@@ -20,6 +20,8 @@ $months2[11] = 'decembre';
     <title>ex2 partie3 php</title>
   </head>
   <body>
+    <p>
     <?php echo $months2[5] ?>
+  </p>
   </body>
   </html>
